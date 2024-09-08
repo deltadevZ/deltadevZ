@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **deltadevZ/deltadevZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![221617](https://github.com/user-attachments/assets/363f7a25-7d11-4d5f-89aa-a54459bcc215)
