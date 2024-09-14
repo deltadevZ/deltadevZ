@@ -16,4 +16,27 @@ Here are some ideas to get you started:
 ![78ef10b48b1b4cb487eb926550bb8ddc](https://github.com/user-attachments/assets/2e328199-94fc-413b-942b-db58e4a25cde)
 
 
+
+
+
+
+
+
+
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ySqZ8yGoh4Emi9HiPCCdP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=deltadevZ&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
